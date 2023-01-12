@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '../../styles/Presentes.module.css';
 
-export default function Presentes() {
+export default function Presente() {
   return (
     <div className={styles.presente}>
       <div className={styles.tampa} />
